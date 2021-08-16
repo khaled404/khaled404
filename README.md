@@ -7,11 +7,11 @@
 
 - 📫 How to reach me **khaled.ma805@gmail.com**
 
-- HTML | CSS | SASS | JSX | JQuery | JavaScript | ES6
-- Libraries:  ReactJS | Styled Components| NextJS | Bootstrap | tailwindCSS
+- HTML | CSS | SASS | JSX | JQuery | JavaScript | Typescript | ES6
+- Libraries:  ReactJS | Styled Components| NextJS | Bootstrap | TailwindCSS
 - Template Engines: Blade 
-- Version Control: Github | Gitlab | bitbucket
-- Extra: MongoDB | MySQL | SQLite | API Handling | android studio | Trello | xcode | Apollo | GraphQL | nodeJS | Clean Code 
+- Version Control: Github | Gitlab | Bitbucket
+- Extra: MongoDB | MySQL | SQLite | API Handling | Android Studio | Trello | Xcode | Apollo | GraphQL | nodeJS | Firebase | Clean Code 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled404&show_icons=true" alt="khaled404" />
 
