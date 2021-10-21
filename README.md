@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled404" alt="khaled404" /> </p>
 
-- 💬 Ask me about **React, React Native, JS, TailwindCSS**
+- 💬 Ask me about **React, React Native, JS, TailwindCSS , ReqctQuery**
 
 - 📫 How to reach me **khaled.ma805@gmail.com**
 
@@ -11,7 +11,7 @@
 - Libraries:  ReactJS | Styled Components| NextJS | Bootstrap | TailwindCSS
 - Template Engines: Blade 
 - Version Control: Github | Gitlab | Bitbucket
-- Extra: MongoDB | MySQL | SQLite | API Handling | Android Studio | Trello | Xcode | Apollo | GraphQL | nodeJS | Firebase | Clean Code 
+- Extra: MongoDB | MySQL | SQLite | API Handling | Android Studio | Trello | Xcode | Apollo | GraphQL | ReactQuery | ViteJS  | nodeJS | Firebase | Clean Code 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled404&show_icons=true" alt="khaled404" />
 
