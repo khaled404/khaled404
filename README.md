@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Khaled Mahmoud</h1>
-<h3 align="center">A passionate React And React Native from Egypt</h3>
+<h3 align="center">A passionate software engineer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled404" alt="khaled404" /> </p>
 
-- 💬 Ask me about **React, React Native, JS, TailwindCSS , ReqctQuery**
+- 💬 Ask me about **React, React Native, JS , NodeJS , MongoDB, TailwindCSS , ReqctQuery**
 
 - 📫 How to reach me **khaled.ma805@gmail.com**
 
-- HTML | CSS | SASS | JSX | JQuery | JavaScript | Typescript | ES6
-- Libraries:  ReactJS | Styled Components| NextJS | Bootstrap | TailwindCSS
+- HTML | CSS | SASS | JSX | JQuery | JavaScript | Typescript | ES6 | NodeJS
+- Libraries:  ReactJS | Styled Components| NextJS | Bootstrap | TailwindCSS | Express
 - Template Engines: Blade 
 - Version Control: Github | Gitlab | Bitbucket
-- Extra: MongoDB | MySQL | SQLite | API Handling | Android Studio | Trello | Xcode | Apollo | GraphQL | ReactQuery | ViteJS  | nodeJS | Firebase | Clean Code 
+- Extra: MongoDB | MySQL | SQLite | API Handling | Express | Android Studio | Agile | Trello | Xcode | Apollo | GraphQL | ReactQuery | ViteJS  | nodeJS | Firebase | Clean Code 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled404&show_icons=true" alt="khaled404" />
 
