@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaled404" alt="khaled404" /> </p>
 
-- 💬 Ask me about **React, React Native, JS , NodeJS , MongoDB, TailwindCSS , ReqctQuery**
+- 💬 Ask me about **React, React Native, JS , NodeJS , MongoDB, TailwindCSS , ReactQuery**
 
 - 📫 How to reach me **khaled.ma805@gmail.com**
 
