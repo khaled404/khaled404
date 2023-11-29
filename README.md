@@ -13,4 +13,3 @@
 - Version Control: Github | Gitlab | Bitbucket
 - Extra: MongoDB | MySQL | SQLite | API Handling | Express | Android Studio | Agile | Trello | Xcode | Apollo | GraphQL | ReactQuery | ViteJS  | nodeJS | Firebase | Clean Code 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled404&show_icons=true" alt="khaled404" />
