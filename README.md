@@ -14,8 +14,3 @@
 - Extra: MongoDB | MySQL | SQLite | API Handling | Express | Android Studio | Agile | Trello | Xcode | Apollo | GraphQL | ReactQuery | ViteJS  | nodeJS | Firebase | Clean Code 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=khaled404&show_icons=true" alt="khaled404" />
-
-<p align="center">
-<a href="https://www.linkedin.com/in/khaled404/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="khaled404" height="30" width="30" /></a>
-<a href="https://fb.com/khaledMahmoud404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="khaledMahmoud404" height="30" width="30" /></a>
-</p>
